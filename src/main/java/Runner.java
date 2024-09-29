@@ -4,7 +4,7 @@ public class Runner {
         System.out.println("merhaba git");
         System.out.println("merhaba git1");
         System.out.println("merhaba git2nin devami");
-        System.out.println("merhaba git3");
+        System.out.println("merhaba 5");
 
 
     }
